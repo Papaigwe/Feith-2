@@ -10,7 +10,7 @@
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code. 
 
 ### 1. <a href="https://github.com/papaigwe/Feith-2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Venom-2" width="70"></a>
-### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
+### 2. <a href="https://sessi-id-by-igwe-tech.onrender.com/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
 ### 3. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
 ### 4. <a href='https://replit.com/github/Deeceexxx/Venom-2' target="_blank">
 
